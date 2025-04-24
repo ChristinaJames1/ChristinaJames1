@@ -2,8 +2,7 @@
 
 <h2> 👩‍💻 Cybersecurity and IT Projects:</h2>
 
-- Active Directory Home Lab (in-progress)
-- [Zero-Trust Merged Topology - Azure SaaS/PaaS Implementation](https://github.com/ChristinaJames1/Azure-Implementation)
+- [Zero-Trust M&A Merged Topology - Azure SaaS/PaaS Implementation](https://github.com/ChristinaJames1/Azure-Implementation)
 - <b>Python</b>
   - [User Input - Compute Numbers](https://github.com/ChristinaJames1/Python-Compute-Numbers/blob/main/README.md)
   - [FizzBuzz - Basic Logic, Loops, & Conditionals](https://github.com/ChristinaJames1/Python-FizzBuzz/blob/main/README.md)
