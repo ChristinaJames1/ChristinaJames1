@@ -2,9 +2,13 @@
 
 <h2> 👩‍💻 Cybersecurity and IT Projects:</h2>
 
-- <b>Azure Zero-Trust</b>
-  - [M&A Merged Topology - Azure SaaS/PaaS Implementation](https://github.com/ChristinaJames1/Azure-Implementation)
-- <b>Python</b>
+- <b>Zero-Trust Architecture (M&A Environment)</b>
+  - [Merged Topology - Azure SaaS/PaaS Implementation](https://github.com/ChristinaJames1/Azure-Implementation)
+ 
+  - <b>API Project</b>
+    - [Insecure Identity API Simulation (In Progress)]
+
+- <b>Python Basics</b>
   - [User Input - Compute Numbers](https://github.com/ChristinaJames1/Python-Compute-Numbers/blob/main/README.md)
   - [FizzBuzz - Basic Logic, Loops, & Conditionals](https://github.com/ChristinaJames1/Python-FizzBuzz/blob/main/README.md)
   - [Guessing Game - User Input/Output, Random Numbers](https://github.com/ChristinaJames1/Python---Numbers-Game/blob/main/README.md)
@@ -17,7 +21,7 @@
 - <b>C# (.Net)</b>
   - [Strings (Hello World!)](https://github.com/ChristinaJames1/CSharp)
 
-<h2>📈 Data Analytics</h2>
+<h2>📈 Security & Business Data Analytics</h2>
 
 - Tableau & PostgreSQL(pgadmin)
     - [Superstore - Analysis of Product Segmentation](https://github.com/ChristinaJames1/Superstore-Product-Segment-Analysis)
