@@ -5,7 +5,7 @@
 - <b>Zero-Trust Architecture (M&A Environment)</b>
   - [Merged Topology - Azure SaaS/PaaS Implementation](https://github.com/ChristinaJames1/Azure-Implementation)
  
-  - <b>API Project</b>
+- <b>API Project</b>
     - [Insecure Identity API Simulation (In Progress)]
 
 - <b>Python Basics</b>
